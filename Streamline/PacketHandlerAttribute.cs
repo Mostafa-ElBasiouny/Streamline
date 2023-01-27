@@ -10,6 +10,7 @@ namespace Streamline;
 /// <summary>
 /// Provides functionality for handling a <see cref="Packet"/> by its identifier.
 /// </summary>
+[AttributeUsage(AttributeTargets.Method, Inherited = false)]
 public sealed class PacketHandlerAttribute : Attribute
 {
     /// <summary>
