@@ -1,5 +1,9 @@
 # DataFlow
 
+A flexible asynchronous networking framework for C# that provides efficient data transmission through its sophisticated packet architecture. It supports handling numerous connections and provides an easy-to-use API for managing connections between clients and servers.
+
+# API
+
 ## DataFlow
 
 [Client](./dataflow.client.md)
